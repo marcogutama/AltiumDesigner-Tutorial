@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Altium Designer Tutorial
 description: Archivos base para tutorial
-zip_url: http://example.com/download.zip
+show_downloads: "true"
